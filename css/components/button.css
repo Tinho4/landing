@@ -1,0 +1,12 @@
+.btn-blue{
+	background-color: #2962ff;
+	padding: 10px 13px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+  	font-family: Roboto, sans-serif;
+  }
+
+  #submit-size{
+  	padding: 8px 10px;
+  }
